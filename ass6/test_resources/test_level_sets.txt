@@ -1,2 +1,0 @@
-t:Test
-test/test_level_definitions.txt
