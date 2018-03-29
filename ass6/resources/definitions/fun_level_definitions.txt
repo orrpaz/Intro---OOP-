@@ -1,0 +1,101 @@
+# Level 1
+# Champions League
+
+
+START_LEVEL
+level_name:Champions League
+ball_velocities:60,550 -45,550 -30,550 60,550
+background:image(background_images/champ.jpg)
+paddle_speed:650
+paddle_width:200
+block_definitions:definitions/champions_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:40
+row_height:50
+num_blocks:31
+START_BLOCKS
+ssssssssss
+-
+l-l-l-l-l-l
+-
+sssssssss
+-
+l-l-l-l-l-l
+
+END_BLOCKS
+END_LEVEL
+
+
+# Level 2
+# LandScape
+
+
+START_LEVEL
+level_name:LandScape
+ball_velocities:60,550 30,500
+background:image(background_images/nof.jpg)
+paddle_speed:800
+paddle_width:200
+block_definitions:definitions/landscape_block_defenitions.txt
+blocks_start_x:25
+blocks_start_y:40
+row_height:70
+num_blocks:28
+START_BLOCKS
+---pjjpjjpjjp
+----jppjppjjp
+-----jjppjjpp
+h
+
+
+
+END_BLOCKS
+END_LEVEL
+
+
+# Level 3
+# Israel Flag - Hard
+START_LEVEL
+level_name: Israel Flag
+ball_velocities:55,500 55,500 -55,500 -50,500
+background:color(RGB(171,248,246))
+paddle_speed:1000
+paddle_width:250
+block_definitions:definitions/magen_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:40
+row_height:10
+num_blocks:552
+START_BLOCKS
+-
+-
+-
+pppppppppppppppppppppppp
+pppppppppppppppppppppppp
+zzzzzzzzzzzpzzzzzzzzzzzz
+zzzzzzzzzzpzpzzzzzzzzzzz
+zzzzzzzzzpzzzpzzzzzzzzzz
+zzzzzzzzpzzzzzpzzzzzzzzz
+zzzzzzzpzzzzzzzpzzzzzzzz
+zzzzzzpzzzzzzzzzpzzzzzzz
+pppppppppppppppppppppppp
+pzzzpzzzzzzzzzzzzzpzzzpz
+zpzpzzzzzzzzzzzzzzzpzpzz
+zzpzzzzzzzzzzzzzzzzzpzzz
+zpzpzzzzzzzzzzzzzzzpzpzz
+pzzzpzzzzzzzzzzzzzpzzzpz
+pppppppppppppppppppppppp
+zzzzzzpzzzzzzzzzpzzzzzzz
+zzzzzzzpzzzzzzzpzzzzzzzz
+zzzzzzzzpzzzzzpzzzzzzzzz
+zzzzzzzzzpzzzpzzzzzzzzzz
+zzzzzzzzzzpzpzzzzzzzzzzz
+zzzzzzzzzzzpzzzzzzzzzzzz
+pppppppppppppppppppppppp
+pppppppppppppppppppppppp
+
+
+END_BLOCKS
+END_LEVEL
+
+

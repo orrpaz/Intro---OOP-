@@ -1,0 +1,9 @@
+# default values for Champions league
+default height:60 width:75 stroke:color(black)
+
+# block definitions
+bdef symbol:s hit_points:2 fill-1:image(block_images/messi.jpg) fill-2:image(block_images/ronaldo.jpg)
+bdef symbol:l hit_points:1 fill:image(block_images/messi.jpg)
+
+# spacers definitions
+sdef symbol:- width:40

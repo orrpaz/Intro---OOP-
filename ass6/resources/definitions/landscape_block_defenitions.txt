@@ -1,0 +1,10 @@
+# default values for blocks
+default height:70 width:70  hit_points:1
+
+# block definitions
+bdef symbol:p stroke:color(black) hit_points:3 fill-1:image(block_images/landscape.jpg) fill-2:image(block_images/landscape2.jpg) fill-3:image(block_images/landscape3.jpg)
+bdef symbol:j stroke:color(black) hit_points:2 fill-1:image(block_images/landscape1.jpg) fill-2:image(block_images/landscape4.jpg)
+bdef symbol:h height:100 width:750 hit_points:10 fill-1:image(block_images/panorama.jpg) fill-3:image(block_images/panorama.jpg) fill-5:image(block_images/panorama.jpg) fill-7:image(block_images/panorama.jpg) fill-9:image(block_images/panorama.jpg)
+
+# spacers definitions
+sdef symbol:- width:10

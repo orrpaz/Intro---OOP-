@@ -1,0 +1,8 @@
+# default values for blocks
+default height:100 width:100 stroke:color(black)
+
+# block definitions
+bdef symbol:b hit_points:1 fill:image(test/block.png)
+
+# spacers definitions
+sdef symbol:- width:50
