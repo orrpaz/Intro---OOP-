@@ -1,0 +1,22 @@
+# Level 1
+# space invaders
+
+START_LEVEL
+level_name:Battle no.
+ball_velocities:0,-400
+background:color(BLACK)
+paddle_speed:300
+paddle_width:70
+block_definitions:resources/definitions/enemy_block_definitions.txt
+blocks_start_x:20
+blocks_start_y:70
+row_height:40
+num_blocks:50
+START_BLOCKS
+E-E-E-E-E-E-E-E-E-E
+E-E-E-E-E-E-E-E-E-E
+E-E-E-E-E-E-E-E-E-E
+E-E-E-E-E-E-E-E-E-E
+E-E-E-E-E-E-E-E-E-E
+END_BLOCKS
+END_LEVEL

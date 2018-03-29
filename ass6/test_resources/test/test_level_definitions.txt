@@ -1,0 +1,21 @@
+
+# Level 1
+# Test level
+
+
+START_LEVEL
+level_name:Test
+ball_velocities:0,500
+background:image(test/owl_pattern.jpg)
+paddle_speed:650
+paddle_width:350
+block_definitions:test/test_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:2
+START_BLOCKS
+----b----b--
+END_BLOCKS
+END_LEVEL
+
